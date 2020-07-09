@@ -1,0 +1,6 @@
+framework module Pods_mixaudiofile {
+  umbrella header "Pods-mixaudiofile-umbrella.h"
+
+  export *
+  module * { export * }
+}

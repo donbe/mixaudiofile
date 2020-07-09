@@ -1,0 +1,16 @@
+PODS:
+  - mobile-ffmpeg-audio (4.3.2)
+
+DEPENDENCIES:
+  - mobile-ffmpeg-audio
+
+SPEC REPOS:
+  trunk:
+    - mobile-ffmpeg-audio
+
+SPEC CHECKSUMS:
+  mobile-ffmpeg-audio: 1c003d0918195bba4c21629d543e44e4b5e1e42d
+
+PODFILE CHECKSUM: 03c8be7894f379aadea3fb871c8dbb46b3b4b542
+
+COCOAPODS: 1.8.4

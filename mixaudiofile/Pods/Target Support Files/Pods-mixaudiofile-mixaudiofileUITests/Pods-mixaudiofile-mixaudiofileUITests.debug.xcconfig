@@ -1,0 +1,9 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/mobile-ffmpeg-audio"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_LDFLAGS = $(inherited) -ObjC -l"bz2" -l"c++" -l"iconv" -l"z" -framework "AVFoundation" -framework "AudioToolbox" -framework "CoreMedia" -framework "VideoToolbox" -framework "lame.xcframework" -framework "libavcodec.xcframework" -framework "libavdevice.xcframework" -framework "libavfilter.xcframework" -framework "libavformat.xcframework" -framework "libavutil.xcframework" -framework "libilbc.xcframework" -framework "libogg.xcframework" -framework "libopencore-amrnb.xcframework" -framework "libopencore-amrwb.xcframework" -framework "libsndfile.xcframework" -framework "libswresample.xcframework" -framework "libswscale.xcframework" -framework "libvorbis.xcframework" -framework "libvorbisenc.xcframework" -framework "libvorbisfile.xcframework" -framework "mobileffmpeg.xcframework" -framework "opus.xcframework" -framework "shine.xcframework" -framework "soxr.xcframework" -framework "speex.xcframework" -framework "twolame.xcframework" -framework "wavpack.xcframework"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

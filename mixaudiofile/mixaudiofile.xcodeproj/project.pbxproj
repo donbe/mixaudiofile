@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A3F04121E8652F76307D0B5 /* Pods_mixaudiofileTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2ED62E8574451C1BD6BCCF84 /* Pods_mixaudiofileTests.framework */; };
 		36720A7824B5B7FB00643C96 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36720A7724B5B7FB00643C96 /* AppDelegate.m */; };
 		36720A7B24B5B7FB00643C96 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36720A7A24B5B7FB00643C96 /* SceneDelegate.m */; };
 		36720A7E24B5B7FB00643C96 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36720A7D24B5B7FB00643C96 /* ViewController.m */; };
@@ -18,6 +19,8 @@
 		36720A9E24B5B7FD00643C96 /* mixaudiofileUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36720A9D24B5B7FD00643C96 /* mixaudiofileUITests.m */; };
 		36720AAD24B5BE2900643C96 /* JYAudioRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 36720AAC24B5BE2900643C96 /* JYAudioRecorder.m */; };
 		36720AAF24B5C1B300643C96 /* lame.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36720AAE24B5C1B300643C96 /* lame.framework */; };
+		A6DFA70EA6B4494AD4AE833A /* Pods_mixaudiofile_mixaudiofileUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71C1608F9DC989072C55D070 /* Pods_mixaudiofile_mixaudiofileUITests.framework */; };
+		BB6B0EDFD932065ED60E9379 /* Pods_mixaudiofile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A19975BD7AE4EBA3BE017BA /* Pods_mixaudiofile.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C64C34E16F4A24D008008EF /* Pods-mixaudiofileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofileTests.debug.xcconfig"; path = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests.debug.xcconfig"; sourceTree = "<group>"; };
+		1E81DC1186C4028E1A694161 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig"; path = "Target Support Files/Pods-mixaudiofile-mixaudiofileUITests/Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig"; sourceTree = "<group>"; };
+		2ED62E8574451C1BD6BCCF84 /* Pods_mixaudiofileTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_mixaudiofileTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		34BC59120090E68A80E3372C /* Pods-mixaudiofile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofile.debug.xcconfig"; path = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile.debug.xcconfig"; sourceTree = "<group>"; };
 		36720A7324B5B7FB00643C96 /* mixaudiofile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mixaudiofile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36720A7624B5B7FB00643C96 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		36720A7724B5B7FB00643C96 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -59,6 +66,11 @@
 		36720AAB24B5BE2900643C96 /* JYAudioRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JYAudioRecorder.h; sourceTree = "<group>"; };
 		36720AAC24B5BE2900643C96 /* JYAudioRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JYAudioRecorder.m; sourceTree = "<group>"; };
 		36720AAE24B5C1B300643C96 /* lame.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = lame.framework; sourceTree = "<group>"; };
+		4B7DA77962FF099EF84B0ED7 /* Pods-mixaudiofile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofile.release.xcconfig"; path = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile.release.xcconfig"; sourceTree = "<group>"; };
+		71C1608F9DC989072C55D070 /* Pods_mixaudiofile_mixaudiofileUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_mixaudiofile_mixaudiofileUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		82AB5050C07BCE4AD1FE3024 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig"; path = "Target Support Files/Pods-mixaudiofile-mixaudiofileUITests/Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		8A19975BD7AE4EBA3BE017BA /* Pods_mixaudiofile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_mixaudiofile.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA164A422C75B433C3FEDE55 /* Pods-mixaudiofileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mixaudiofileTests.release.xcconfig"; path = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +79,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				36720AAF24B5C1B300643C96 /* lame.framework in Frameworks */,
+				BB6B0EDFD932065ED60E9379 /* Pods_mixaudiofile.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A3F04121E8652F76307D0B5 /* Pods_mixaudiofileTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,12 +95,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6DFA70EA6B4494AD4AE833A /* Pods_mixaudiofile_mixaudiofileUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06657D5976630DC67A68AFFF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8A19975BD7AE4EBA3BE017BA /* Pods_mixaudiofile.framework */,
+				71C1608F9DC989072C55D070 /* Pods_mixaudiofile_mixaudiofileUITests.framework */,
+				2ED62E8574451C1BD6BCCF84 /* Pods_mixaudiofileTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		36720A6A24B5B7FB00643C96 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +119,8 @@
 				36720A9124B5B7FD00643C96 /* mixaudiofileTests */,
 				36720A9C24B5B7FD00643C96 /* mixaudiofileUITests */,
 				36720A7424B5B7FB00643C96 /* Products */,
+				93A7A4A011D0878B1A46C716 /* Pods */,
+				06657D5976630DC67A68AFFF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -146,6 +173,20 @@
 			path = mixaudiofileUITests;
 			sourceTree = "<group>";
 		};
+		93A7A4A011D0878B1A46C716 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				34BC59120090E68A80E3372C /* Pods-mixaudiofile.debug.xcconfig */,
+				4B7DA77962FF099EF84B0ED7 /* Pods-mixaudiofile.release.xcconfig */,
+				82AB5050C07BCE4AD1FE3024 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */,
+				1E81DC1186C4028E1A694161 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */,
+				0C64C34E16F4A24D008008EF /* Pods-mixaudiofileTests.debug.xcconfig */,
+				DA164A422C75B433C3FEDE55 /* Pods-mixaudiofileTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -153,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 36720AA224B5B7FD00643C96 /* Build configuration list for PBXNativeTarget "mixaudiofile" */;
 			buildPhases = (
+				775EB249DCE549229579A4B9 /* [CP] Check Pods Manifest.lock */,
 				36720A6F24B5B7FB00643C96 /* Sources */,
 				36720A7024B5B7FB00643C96 /* Frameworks */,
 				36720A7124B5B7FB00643C96 /* Resources */,
@@ -170,6 +212,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 36720AA524B5B7FD00643C96 /* Build configuration list for PBXNativeTarget "mixaudiofileTests" */;
 			buildPhases = (
+				37C62DA082BE915996E2CF43 /* [CP] Check Pods Manifest.lock */,
 				36720A8A24B5B7FD00643C96 /* Sources */,
 				36720A8B24B5B7FD00643C96 /* Frameworks */,
 				36720A8C24B5B7FD00643C96 /* Resources */,
@@ -188,6 +231,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 36720AA824B5B7FD00643C96 /* Build configuration list for PBXNativeTarget "mixaudiofileUITests" */;
 			buildPhases = (
+				606057B9D43D6C451A19612B /* [CP] Check Pods Manifest.lock */,
 				36720A9524B5B7FD00643C96 /* Sources */,
 				36720A9624B5B7FD00643C96 /* Frameworks */,
 				36720A9724B5B7FD00643C96 /* Resources */,
@@ -269,6 +313,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		37C62DA082BE915996E2CF43 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-mixaudiofileTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		606057B9D43D6C451A19612B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-mixaudiofile-mixaudiofileUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		775EB249DCE549229579A4B9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-mixaudiofile-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		36720A6F24B5B7FB00643C96 /* Sources */ = {
@@ -448,6 +561,7 @@
 		};
 		36720AA324B5B7FD00643C96 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 34BC59120090E68A80E3372C /* Pods-mixaudiofile.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -470,6 +584,7 @@
 		};
 		36720AA424B5B7FD00643C96 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4B7DA77962FF099EF84B0ED7 /* Pods-mixaudiofile.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -492,6 +607,7 @@
 		};
 		36720AA624B5B7FD00643C96 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C64C34E16F4A24D008008EF /* Pods-mixaudiofileTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -512,6 +628,7 @@
 		};
 		36720AA724B5B7FD00643C96 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA164A422C75B433C3FEDE55 /* Pods-mixaudiofileTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -532,6 +649,7 @@
 		};
 		36720AA924B5B7FD00643C96 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82AB5050C07BCE4AD1FE3024 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J238R6UW9K;
@@ -550,6 +668,7 @@
 		};
 		36720AAA24B5B7FD00643C96 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1E81DC1186C4028E1A694161 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J238R6UW9K;
