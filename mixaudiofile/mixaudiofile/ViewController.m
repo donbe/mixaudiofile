@@ -8,7 +8,8 @@
 #import "ViewController.h"
 #import "JYAudioRecorder.h"
 #import <AVFoundation/AVFoundation.h>
-#include <lame/lame.h>
+#import <mobileffmpeg/MobileFFmpegConfig.h>
+#import <mobileffmpeg/MobileFFprobe.h>
 
 
 @interface ViewController ()<JYAudioRecorderDelegate>
@@ -63,11 +64,39 @@
 }
 
 -(void)mixBtnAction{
+    NSString *i1 =  [[[NSBundle mainBundle] URLForResource:@"123" withExtension:@"mp3"] relativePath];
+    NSString *i2 = self.recorder.recordFilePath;
+    
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *docDir = [paths objectAtIndex:0];
+    NSString *output = [docDir stringByAppendingString:@"/output.mp3"];
+    
+    
+    NSLog(@"%@",self.recorder.recordFilePath);
+    int rc = [MobileFFmpeg execute: [NSString stringWithFormat:@" -y -i %@ -i %@ -filter_complex amerge %@",i1,i2,output]];
+
+    if (rc == RETURN_CODE_SUCCESS) {
+        NSLog(@"Command execution completed successfully.\n");
+    } else if (rc == RETURN_CODE_CANCEL) {
+        NSLog(@"Command execution cancelled by user.\n");
+    } else {
+        NSLog(@"Command execution failed with rc=%d and output=%@.\n", rc, [MobileFFmpegConfig getLastCommandOutput]);
+    }
     
 }
 
 -(void)playBtnAction{
-    
+    int rc = [MobileFFmpegConfig getLastReturnCode];
+    NSString *output = [MobileFFmpegConfig getLastCommandOutput];
+
+//    if (rc == RETURN_CODE_SUCCESS) {
+//        NSLog(@"Command execution completed successfully.\n");
+//    } else if (rc == RETURN_CODE_CANCEL) {
+//        NSLog(@"Command execution cancelled by user.\n");
+//    } else {
+//        NSLog(@"Command execution failed with rc=%d and output=%@.\n", rc, output);
+//    }
+    NSLog(@"Command execution failed with rc=%d and output=%@.\n", rc, output);
 }
 
 
@@ -113,7 +142,7 @@
 }
 
 -(void)recorderBuffer:(AVAudioPCMBuffer *)buffer duration:(NSTimeInterval)duration{
-//    NSLog(@"recorderBuffer %f", duration);
+    NSLog(@"recorderBuffer %f", duration);
 }
 
 -(void)recorderPlayingTime:(NSTimeInterval)time duration:(NSTimeInterval)duration{

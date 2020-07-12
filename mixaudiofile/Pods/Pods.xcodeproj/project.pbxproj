@@ -19,33 +19,33 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		11DDF4DD2796AF7B8A940D5FBBCD46D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		1B085BF70CF1D931DFCA25E11737C338 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		1FD857573C271CD268EAE0EC7D3390FB /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 63B2E5357C64D8A9E51E9E7DF94BCE90 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3322096B1DE1F36F5BC9FECB193D0C2F /* Pods-mixaudiofile-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 917A7F364CA871BE654537CFD592B055 /* Pods-mixaudiofile-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		43CD449E1C7DD8E390CCA4876220E40F /* Pods-mixaudiofileTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 069B1F22D05E1EFD6D273EAD35A48830 /* Pods-mixaudiofileTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		46124A50F62DFDEAE9208AC31D4502AF /* Pods-mixaudiofile-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0D973C81831FCB466BEDF5BFA97D5A /* Pods-mixaudiofile-dummy.m */; };
-		A9EC76306151EF19DA9687F9DCCE10CC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		C986F1A58F0606F7AE1B2B9B8CCC6C17 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB71ED515B50F22AF0A29831EA280B29 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */; };
-		ECD3DEBF38F3D7966EB579936DAAA025 /* Pods-mixaudiofileTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 63F51650F84B64A64D59C9F6DB3E12AC /* Pods-mixaudiofileTests-dummy.m */; };
+		51D24A6CD661CA841EB33535F5268944 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		5472AD4DCE12C5244778466B9AF5F10B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		72194E080A05160E4708B295F8E3604D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		8ED3A9F2DED76F248977FDA69C67D7A6 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F76656E4C5A871BA5A075A6D9917094 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90E0A2EE6929345BCC1D9479BD038D28 /* Pods-mixaudiofile-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AF1A2A375355B7B7E1A992A62D82F890 /* Pods-mixaudiofile-dummy.m */; };
+		DAF609B5B1F479F162BD16C0939943DA /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BE05B158068B0354FD34AE3233A9E0C5 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */; };
+		F0D6801DE9925EA9CA6F305E0B12D2E4 /* Pods-mixaudiofileTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 866E1E6111522E4C18D0F1C1CF74C338 /* Pods-mixaudiofileTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F5328DBFAC90F97322D615DFA54B8E7A /* Pods-mixaudiofileTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 67D5FFE2BC4934498291087B6B52AB67 /* Pods-mixaudiofileTests-dummy.m */; };
+		FC5D71D20B5906D40602F09886382794 /* Pods-mixaudiofile-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DEF9B32C589951C05D1FF6812341494D /* Pods-mixaudiofile-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2884295D952DEF96741479DBE53AD0F4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9150DBDF5AD4E976829197679E046C7B;
-			remoteInfo = "mobile-ffmpeg-audio";
-		};
-		BE471136D3830442BF9FE62FCC616A04 /* PBXContainerItemProxy */ = {
+		334B75856E452819A5891CECC7257B7E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = FF8665AE9B438147877567BDDD96E268;
 			remoteInfo = "Pods-mixaudiofile";
 		};
-		F2831E3CCFC537E58A3B3F1C48364639 /* PBXContainerItemProxy */ = {
+		7927432100E311BB25C83B241CF43828 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9150DBDF5AD4E976829197679E046C7B;
+			remoteInfo = "mobile-ffmpeg-audio";
+		};
+		9CB8DFE20DEE6B410108406A624FBE2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -55,149 +55,126 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		069B1F22D05E1EFD6D273EAD35A48830 /* Pods-mixaudiofileTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofileTests-umbrella.h"; sourceTree = "<group>"; };
-		0B7152943AC6BD2A9AF358C79F8A3705 /* mobile-ffmpeg-audio.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mobile-ffmpeg-audio.xcconfig"; sourceTree = "<group>"; };
-		13205055DB67A2B09B9AFD5A8B16B503 /* libilbc.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libilbc.xcframework; sourceTree = "<group>"; };
-		16C2BF421FCABDC1B5C7D83163CDDDDF /* libswresample.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libswresample.xcframework; sourceTree = "<group>"; };
-		1A32006FEF964865588F0C73CFFE56B2 /* libvorbis.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbis.xcframework; sourceTree = "<group>"; };
-		218A6349E139C257D45F45A3D645A062 /* libogg.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libogg.xcframework; sourceTree = "<group>"; };
-		25A884969176A3999F1D10300F83EB6C /* Pods-mixaudiofile-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofile-acknowledgements.markdown"; sourceTree = "<group>"; };
-		272BCC8A1BDA7561EAD7548FEE1AC679 /* Pods-mixaudiofile.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofile.modulemap"; sourceTree = "<group>"; };
-		2D90DBFD86FA10C5CC4984C9B56AE918 /* twolame.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = twolame.xcframework; sourceTree = "<group>"; };
+		02C72F1651C1CC662C7A076A0DCD97F3 /* Pods-mixaudiofile-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-Info.plist"; sourceTree = "<group>"; };
+		0430E1B8214F2422AA2BDF6E35EF0AFD /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-output-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-output-files.xcfilelist"; sourceTree = "<group>"; };
+		07254B97452ED88668E3E1B8C88CF4C5 /* shine.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = shine.xcframework; sourceTree = "<group>"; };
+		0E3E42B634E769D870544F570D689B59 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig"; sourceTree = "<group>"; };
+		0F76656E4C5A871BA5A075A6D9917094 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofile-mixaudiofileUITests-umbrella.h"; sourceTree = "<group>"; };
+		10CD49B304225F2BF02784AC41C1B36D /* libswresample.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libswresample.xcframework; sourceTree = "<group>"; };
+		1419734C9F73FB112C6401CD7C76C42B /* libsndfile.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libsndfile.xcframework; sourceTree = "<group>"; };
+		15153603CEE31632455874569AFBB26F /* wavpack.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = wavpack.xcframework; sourceTree = "<group>"; };
+		1BF582EC58DD935CC53DF7B72F8D6692 /* Pods-mixaudiofile-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofile-acknowledgements.markdown"; sourceTree = "<group>"; };
+		2089E1DD3678E44B0A17E7A2C27BFE92 /* libopencore-amrnb.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = "libopencore-amrnb.xcframework"; sourceTree = "<group>"; };
+		288CC5E0387E5B31951FA17F3D0C8FF1 /* Pods-mixaudiofileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofileTests.release.xcconfig"; sourceTree = "<group>"; };
+		2A9786C107BCC6BA68E6DDD4F99FC4B0 /* libopencore-amrwb.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = "libopencore-amrwb.xcframework"; sourceTree = "<group>"; };
+		2B5D8D9805CD95C2EC049F2952C75019 /* libvorbisenc.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbisenc.xcframework; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3734DB22487742EE72161417137A895C /* Pods-mixaudiofileTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofileTests.modulemap"; sourceTree = "<group>"; };
-		3F89FD5EB6867A6F2D46FE3F829B5705 /* Pods-mixaudiofileTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofileTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4418248501C6B106A9BFFD9BCE741D7B /* lame.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = lame.xcframework; sourceTree = "<group>"; };
-		53F12D1279BE0C23B0A98FFCE2182D99 /* shine.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = shine.xcframework; sourceTree = "<group>"; };
-		617659D7005FC4D0427D645D297D6A90 /* libavformat.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavformat.xcframework; sourceTree = "<group>"; };
-		63688E9C9286AEB1ED74133D97572F3A /* opus.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = opus.xcframework; sourceTree = "<group>"; };
-		63B2E5357C64D8A9E51E9E7DF94BCE90 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofile-mixaudiofileUITests-umbrella.h"; sourceTree = "<group>"; };
-		63F51650F84B64A64D59C9F6DB3E12AC /* Pods-mixaudiofileTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofileTests-dummy.m"; sourceTree = "<group>"; };
+		38B2479782C6AFA4F29A162E3FBCBC33 /* Pods-mixaudiofileTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofileTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3EF9B9DA04D46E5047C8588883E4EC91 /* libogg.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libogg.xcframework; sourceTree = "<group>"; };
+		4311C301DE1A694119B6D750BBE25A87 /* Pods-mixaudiofile-artifacts.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mixaudiofile-artifacts.sh"; sourceTree = "<group>"; };
+		4BC51774B28D878BEA256A7940529CB5 /* libvorbis.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbis.xcframework; sourceTree = "<group>"; };
+		4D585EADA1F9010DA3A6DB3AB79BC53D /* Pods-mixaudiofile.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofile.modulemap"; sourceTree = "<group>"; };
+		56B49E85A888180706010209E2989348 /* Pods-mixaudiofile-mixaudiofileUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mixaudiofile-mixaudiofileUITests-frameworks.sh"; sourceTree = "<group>"; };
+		573F26646E3BE21AE5A1EFAF7D66D181 /* Pods-mixaudiofileTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofileTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		57D1DB637E7514125C22363C2EB48699 /* libilbc.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libilbc.xcframework; sourceTree = "<group>"; };
+		582283C2EC0033E8077BD50444960D0F /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-input-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-input-files.xcfilelist"; sourceTree = "<group>"; };
+		5BDB11F35BAF0CD437FFF31B183B2FED /* Pods-mixaudiofile-mixaudiofileUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofile-mixaudiofileUITests.modulemap"; sourceTree = "<group>"; };
+		6494F1F4FD026C12E86609C26D9A7E3C /* soxr.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = soxr.xcframework; sourceTree = "<group>"; };
+		67D5FFE2BC4934498291087B6B52AB67 /* Pods-mixaudiofileTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofileTests-dummy.m"; sourceTree = "<group>"; };
 		68349188C94DBB7FB5B4208AED552A6F /* Pods_mixaudiofile_mixaudiofileUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mixaudiofile_mixaudiofileUITests.framework; path = "Pods-mixaudiofile-mixaudiofileUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		68CA256A7ED05F2E187485E0A46D3CF7 /* libavdevice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavdevice.xcframework; sourceTree = "<group>"; };
-		69B1915EF7044B2471E8486F711A3EFC /* libavcodec.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavcodec.xcframework; sourceTree = "<group>"; };
-		6AF2F759FEE95584E2099A744C95A6DC /* libavutil.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavutil.xcframework; sourceTree = "<group>"; };
-		70D0369FBA7AC2C1FDF27961349BE048 /* libopencore-amrnb.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = "libopencore-amrnb.xcframework"; sourceTree = "<group>"; };
-		765AE371B169AA45A9C9D3DC93FD392F /* mobileffmpeg.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = mobileffmpeg.xcframework; sourceTree = "<group>"; };
-		77FA91DD70A8812236EB76090D4FE3A6 /* Pods-mixaudiofile-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-acknowledgements.plist"; sourceTree = "<group>"; };
-		79D63DCCD58D11A8C89801D562DDC457 /* Pods-mixaudiofile-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-Info.plist"; sourceTree = "<group>"; };
-		7D3EBD7F7568288031109F03D198C296 /* libsndfile.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libsndfile.xcframework; sourceTree = "<group>"; };
-		7F3F1EF02905F012C6C57FD86B24F4B7 /* Pods-mixaudiofile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile.debug.xcconfig"; sourceTree = "<group>"; };
-		889F9A80C67C34CDCCFCB718335E65A9 /* Pods-mixaudiofile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile.release.xcconfig"; sourceTree = "<group>"; };
-		914799189F6D0CF02D6FF7797BBF3E26 /* Pods-mixaudiofile-mixaudiofileUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-mixaudiofileUITests-Info.plist"; sourceTree = "<group>"; };
-		917A7F364CA871BE654537CFD592B055 /* Pods-mixaudiofile-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofile-umbrella.h"; sourceTree = "<group>"; };
-		931CF25C2337975144B31BCCDF09805F /* libavfilter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavfilter.xcframework; sourceTree = "<group>"; };
-		994AA001EE6F30D0FCD8786243109EE1 /* Pods-mixaudiofile-mixaudiofileUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofile-mixaudiofileUITests.modulemap"; sourceTree = "<group>"; };
+		6FB142CAF5E1BC044A4A229C07AE4BD3 /* Pods-mixaudiofile-artifacts-Release-input-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-artifacts-Release-input-files.xcfilelist"; sourceTree = "<group>"; };
+		742371809284D7B22BA2FF63761FB341 /* libvorbisfile.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbisfile.xcframework; sourceTree = "<group>"; };
+		749AE58396A3E528952F278F35D0AA37 /* speex.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = speex.xcframework; sourceTree = "<group>"; };
+		756AB049B0821C5101248A3A06E4281C /* Pods-mixaudiofileTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-mixaudiofileTests.modulemap"; sourceTree = "<group>"; };
+		762A47332A7888BC6072EDCB394B173C /* twolame.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = twolame.xcframework; sourceTree = "<group>"; };
+		7930BBF8329683CF3BF41D39837FF9FA /* Pods-mixaudiofile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile.debug.xcconfig"; sourceTree = "<group>"; };
+		7DD1A8D6B68BA7DE29F8475150E7FBD9 /* Pods-mixaudiofile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile.release.xcconfig"; sourceTree = "<group>"; };
+		8140F5EA101E47FC3DD938BD3476DF61 /* Pods-mixaudiofile-mixaudiofileUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-mixaudiofileUITests-Info.plist"; sourceTree = "<group>"; };
+		81F2237A255D68EF0AF9D736182D00DC /* libavformat.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavformat.xcframework; sourceTree = "<group>"; };
+		866E1E6111522E4C18D0F1C1CF74C338 /* Pods-mixaudiofileTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofileTests-umbrella.h"; sourceTree = "<group>"; };
+		8BADAAB7E4689EA95197F15A42CA4A60 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-output-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-output-files.xcfilelist"; sourceTree = "<group>"; };
+		8E362915D500B2E3BB293019AD813CD0 /* Pods-mixaudiofile-artifacts-Debug-output-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-artifacts-Debug-output-files.xcfilelist"; sourceTree = "<group>"; };
+		92EC5A8B157981C5917910D4A6510190 /* Pods-mixaudiofile-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mixaudiofile-frameworks.sh"; sourceTree = "<group>"; };
+		93E027713A39A1EC97902356AD0EBE4E /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9C648109B9BE09D3E51C11436D94CE77 /* opus.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = opus.xcframework; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9EC8905A2DD96BDCFD1E7EBC27369F6F /* soxr.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = soxr.xcframework; sourceTree = "<group>"; };
-		A70EE9C1B93E6E06C364EEA4ECB1E321 /* Pods-mixaudiofileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofileTests.debug.xcconfig"; sourceTree = "<group>"; };
-		A8F0B2D9F5E30C8DFB60E0E4D5578EB9 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		A93D6F544CC00E3AD8EE591C32A81703 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A407202EC48FEEF853FDE83D4C0220E3 /* Pods-mixaudiofile-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-acknowledgements.plist"; sourceTree = "<group>"; };
 		A952A4C0D80591EEA0A1FDEF4FC803E9 /* Pods_mixaudiofileTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mixaudiofileTests.framework; path = "Pods-mixaudiofileTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AB71ED515B50F22AF0A29831EA280B29 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofile-mixaudiofileUITests-dummy.m"; sourceTree = "<group>"; };
-		B31A7A8325D449447A3645D86B08732C /* wavpack.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = wavpack.xcframework; sourceTree = "<group>"; };
-		B570906AE42217FAE8122F65B6F0E500 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig"; sourceTree = "<group>"; };
-		CB0D973C81831FCB466BEDF5BFA97D5A /* Pods-mixaudiofile-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofile-dummy.m"; sourceTree = "<group>"; };
+		AAD42D5F14A3E27E4F2A859325B71797 /* Pods-mixaudiofileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofileTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AD19590D1C0309BAB94A0CBA1C94E2C9 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-input-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-input-files.xcfilelist"; sourceTree = "<group>"; };
+		AF1A2A375355B7B7E1A992A62D82F890 /* Pods-mixaudiofile-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofile-dummy.m"; sourceTree = "<group>"; };
+		AF2457DD33C85ED1803964B2505F5CE6 /* Pods-mixaudiofile-artifacts-Release-output-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-artifacts-Release-output-files.xcfilelist"; sourceTree = "<group>"; };
+		B8EB4AB023095D047C2953E3C6504AE8 /* libavfilter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavfilter.xcframework; sourceTree = "<group>"; };
+		BCF1646D2044ECB467A33CF470C66E19 /* libavcodec.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavcodec.xcframework; sourceTree = "<group>"; };
+		BE05B158068B0354FD34AE3233A9E0C5 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mixaudiofile-mixaudiofileUITests-dummy.m"; sourceTree = "<group>"; };
+		C2857E3C56E09C21C7154EA0B55CDF5C /* lame.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = lame.xcframework; sourceTree = "<group>"; };
+		CA24153E170B461B3EEA49849B650D5E /* libswscale.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libswscale.xcframework; sourceTree = "<group>"; };
 		CB2773EB80B6F34A1E58025C94E02611 /* Pods_mixaudiofile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mixaudiofile.framework; path = "Pods-mixaudiofile.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC8D32A3A2F462E9C1F1B4D6DC7A5464 /* libswscale.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libswscale.xcframework; sourceTree = "<group>"; };
-		CCD722AF81A301D1540E269CF9465596 /* libvorbisfile.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbisfile.xcframework; sourceTree = "<group>"; };
-		CD6CB8936C162BAB5041610363BFA324 /* libopencore-amrwb.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = "libopencore-amrwb.xcframework"; sourceTree = "<group>"; };
-		D83B15E2BDBA6342B8F3F55F091E43C8 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		DB31AA721B16894C6C7A1CA3A69B1DA0 /* speex.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = speex.xcframework; sourceTree = "<group>"; };
-		DD46909504E8BE842276ECE83FAD099A /* Pods-mixaudiofileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mixaudiofileTests.release.xcconfig"; sourceTree = "<group>"; };
-		E3A64E6CD6E7B3774F48A2FA60A8371A /* libvorbisenc.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libvorbisenc.xcframework; sourceTree = "<group>"; };
-		EFFE103C668E4B1579123D4670F06CD9 /* Pods-mixaudiofileTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofileTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		FD70D207D4E59A4EA69A9A5442000DDC /* Pods-mixaudiofileTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofileTests-Info.plist"; sourceTree = "<group>"; };
+		CDAA78329BD0B6A053B1C90BFD4FD164 /* mobileffmpeg.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = mobileffmpeg.xcframework; sourceTree = "<group>"; };
+		CE58BC0E6B24151B96CA6A89D6435C09 /* Pods-mixaudiofile-artifacts-Debug-input-files.xcfilelist */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mixaudiofile-artifacts-Debug-input-files.xcfilelist"; sourceTree = "<group>"; };
+		CEFB88A94843AE1FB56D96EDABA78A4E /* mobile-ffmpeg-audio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mobile-ffmpeg-audio.release.xcconfig"; sourceTree = "<group>"; };
+		D07810AF5A5F8A01F1D970E1AAE75032 /* mobile-ffmpeg-audio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "mobile-ffmpeg-audio.debug.xcconfig"; sourceTree = "<group>"; };
+		D45485C533E22C9B65544B5A27F89DDB /* Pods-mixaudiofileTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofileTests-Info.plist"; sourceTree = "<group>"; };
+		D7B4D4651C93EC2E63DE45A7B9FAA735 /* libavutil.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavutil.xcframework; sourceTree = "<group>"; };
+		DA48F74DE1C2400087FCD1323DB375CA /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		DC931FF4723D35978C365D18E3B7ECD6 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mixaudiofile-mixaudiofileUITests-artifacts.sh"; sourceTree = "<group>"; };
+		DEF9B32C589951C05D1FF6812341494D /* Pods-mixaudiofile-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mixaudiofile-umbrella.h"; sourceTree = "<group>"; };
+		DF60C7412A7AB84C505A328F17540398 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E9305125CC8762300750912CC5F12BC0 /* libavdevice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = libavdevice.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7019DE574448C6F08E9AA944E16124C4 /* Frameworks */ = {
+		26671CD7F9557C19030FDB677C1B5F69 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9EC76306151EF19DA9687F9DCCE10CC /* Foundation.framework in Frameworks */,
+				72194E080A05160E4708B295F8E3604D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9A7900DF75AB22DA1EA22DDBE7693423 /* Frameworks */ = {
+		46DD945AF60C581D32DFCF73238A0395 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B085BF70CF1D931DFCA25E11737C338 /* Foundation.framework in Frameworks */,
+				5472AD4DCE12C5244778466B9AF5F10B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A20898E0E55217A86C1CD22E67CF2903 /* Frameworks */ = {
+		4E4AC00B15FC9B2D19EF4E93BD592DA3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11DDF4DD2796AF7B8A940D5FBBCD46D2 /* Foundation.framework in Frameworks */,
+				51D24A6CD661CA841EB33535F5268944 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		138580D5AB0365D5328BBB4E113E8ADD /* Frameworks */ = {
+		4C269CE1209334E9BDBE5F3E68D7CA59 /* mobile-ffmpeg-audio */ = {
 			isa = PBXGroup;
 			children = (
-				4418248501C6B106A9BFFD9BCE741D7B /* lame.xcframework */,
-				69B1915EF7044B2471E8486F711A3EFC /* libavcodec.xcframework */,
-				68CA256A7ED05F2E187485E0A46D3CF7 /* libavdevice.xcframework */,
-				931CF25C2337975144B31BCCDF09805F /* libavfilter.xcframework */,
-				617659D7005FC4D0427D645D297D6A90 /* libavformat.xcframework */,
-				6AF2F759FEE95584E2099A744C95A6DC /* libavutil.xcframework */,
-				13205055DB67A2B09B9AFD5A8B16B503 /* libilbc.xcframework */,
-				218A6349E139C257D45F45A3D645A062 /* libogg.xcframework */,
-				70D0369FBA7AC2C1FDF27961349BE048 /* libopencore-amrnb.xcframework */,
-				CD6CB8936C162BAB5041610363BFA324 /* libopencore-amrwb.xcframework */,
-				7D3EBD7F7568288031109F03D198C296 /* libsndfile.xcframework */,
-				16C2BF421FCABDC1B5C7D83163CDDDDF /* libswresample.xcframework */,
-				CC8D32A3A2F462E9C1F1B4D6DC7A5464 /* libswscale.xcframework */,
-				1A32006FEF964865588F0C73CFFE56B2 /* libvorbis.xcframework */,
-				E3A64E6CD6E7B3774F48A2FA60A8371A /* libvorbisenc.xcframework */,
-				CCD722AF81A301D1540E269CF9465596 /* libvorbisfile.xcframework */,
-				765AE371B169AA45A9C9D3DC93FD392F /* mobileffmpeg.xcframework */,
-				63688E9C9286AEB1ED74133D97572F3A /* opus.xcframework */,
-				53F12D1279BE0C23B0A98FFCE2182D99 /* shine.xcframework */,
-				9EC8905A2DD96BDCFD1E7EBC27369F6F /* soxr.xcframework */,
-				DB31AA721B16894C6C7A1CA3A69B1DA0 /* speex.xcframework */,
-				2D90DBFD86FA10C5CC4984C9B56AE918 /* twolame.xcframework */,
-				B31A7A8325D449447A3645D86B08732C /* wavpack.xcframework */,
+				8E816DAE769239A45DBCC923187BC5C6 /* Frameworks */,
+				857F96D5E7D2BCB14EF478252B500234 /* Support Files */,
 			);
-			name = Frameworks;
+			name = "mobile-ffmpeg-audio";
+			path = "mobile-ffmpeg-audio";
 			sourceTree = "<group>";
 		};
-		2DD7C3DDFC831329699A2AE0D1917121 /* Pods-mixaudiofile */ = {
+		4E7885952760B9C9C5D9D64664B6D3EF /* Pods-mixaudiofileTests */ = {
 			isa = PBXGroup;
 			children = (
-				272BCC8A1BDA7561EAD7548FEE1AC679 /* Pods-mixaudiofile.modulemap */,
-				25A884969176A3999F1D10300F83EB6C /* Pods-mixaudiofile-acknowledgements.markdown */,
-				77FA91DD70A8812236EB76090D4FE3A6 /* Pods-mixaudiofile-acknowledgements.plist */,
-				CB0D973C81831FCB466BEDF5BFA97D5A /* Pods-mixaudiofile-dummy.m */,
-				79D63DCCD58D11A8C89801D562DDC457 /* Pods-mixaudiofile-Info.plist */,
-				917A7F364CA871BE654537CFD592B055 /* Pods-mixaudiofile-umbrella.h */,
-				7F3F1EF02905F012C6C57FD86B24F4B7 /* Pods-mixaudiofile.debug.xcconfig */,
-				889F9A80C67C34CDCCFCB718335E65A9 /* Pods-mixaudiofile.release.xcconfig */,
+				756AB049B0821C5101248A3A06E4281C /* Pods-mixaudiofileTests.modulemap */,
+				38B2479782C6AFA4F29A162E3FBCBC33 /* Pods-mixaudiofileTests-acknowledgements.markdown */,
+				573F26646E3BE21AE5A1EFAF7D66D181 /* Pods-mixaudiofileTests-acknowledgements.plist */,
+				67D5FFE2BC4934498291087B6B52AB67 /* Pods-mixaudiofileTests-dummy.m */,
+				D45485C533E22C9B65544B5A27F89DDB /* Pods-mixaudiofileTests-Info.plist */,
+				866E1E6111522E4C18D0F1C1CF74C338 /* Pods-mixaudiofileTests-umbrella.h */,
+				AAD42D5F14A3E27E4F2A859325B71797 /* Pods-mixaudiofileTests.debug.xcconfig */,
+				288CC5E0387E5B31951FA17F3D0C8FF1 /* Pods-mixaudiofileTests.release.xcconfig */,
 			);
-			name = "Pods-mixaudiofile";
-			path = "Target Support Files/Pods-mixaudiofile";
-			sourceTree = "<group>";
-		};
-		4FAD4BBE7D82707B16BDC72148ABCD54 /* Pods-mixaudiofile-mixaudiofileUITests */ = {
-			isa = PBXGroup;
-			children = (
-				994AA001EE6F30D0FCD8786243109EE1 /* Pods-mixaudiofile-mixaudiofileUITests.modulemap */,
-				D83B15E2BDBA6342B8F3F55F091E43C8 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown */,
-				A8F0B2D9F5E30C8DFB60E0E4D5578EB9 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist */,
-				AB71ED515B50F22AF0A29831EA280B29 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */,
-				914799189F6D0CF02D6FF7797BBF3E26 /* Pods-mixaudiofile-mixaudiofileUITests-Info.plist */,
-				63B2E5357C64D8A9E51E9E7DF94BCE90 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */,
-				A93D6F544CC00E3AD8EE591C32A81703 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */,
-				B570906AE42217FAE8122F65B6F0E500 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */,
-			);
-			name = "Pods-mixaudiofile-mixaudiofileUITests";
-			path = "Target Support Files/Pods-mixaudiofile-mixaudiofileUITests";
+			name = "Pods-mixaudiofileTests";
+			path = "Target Support Files/Pods-mixaudiofileTests";
 			sourceTree = "<group>";
 		};
 		55AA400AB554604D7CB4ABC268C91AB2 /* Products */ = {
@@ -210,37 +187,106 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7C26FB0B86E6DB63D77BE82FBCA26A66 /* Support Files */ = {
+		69B6EEB1AFCEAB59F073C1F6108AD4DF /* Pods-mixaudiofile-mixaudiofileUITests */ = {
 			isa = PBXGroup;
 			children = (
-				0B7152943AC6BD2A9AF358C79F8A3705 /* mobile-ffmpeg-audio.xcconfig */,
+				5BDB11F35BAF0CD437FFF31B183B2FED /* Pods-mixaudiofile-mixaudiofileUITests.modulemap */,
+				DF60C7412A7AB84C505A328F17540398 /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.markdown */,
+				DA48F74DE1C2400087FCD1323DB375CA /* Pods-mixaudiofile-mixaudiofileUITests-acknowledgements.plist */,
+				DC931FF4723D35978C365D18E3B7ECD6 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts.sh */,
+				582283C2EC0033E8077BD50444960D0F /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-input-files.xcfilelist */,
+				8BADAAB7E4689EA95197F15A42CA4A60 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Debug-output-files.xcfilelist */,
+				AD19590D1C0309BAB94A0CBA1C94E2C9 /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-input-files.xcfilelist */,
+				0430E1B8214F2422AA2BDF6E35EF0AFD /* Pods-mixaudiofile-mixaudiofileUITests-artifacts-Release-output-files.xcfilelist */,
+				BE05B158068B0354FD34AE3233A9E0C5 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m */,
+				56B49E85A888180706010209E2989348 /* Pods-mixaudiofile-mixaudiofileUITests-frameworks.sh */,
+				8140F5EA101E47FC3DD938BD3476DF61 /* Pods-mixaudiofile-mixaudiofileUITests-Info.plist */,
+				0F76656E4C5A871BA5A075A6D9917094 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h */,
+				93E027713A39A1EC97902356AD0EBE4E /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */,
+				0E3E42B634E769D870544F570D689B59 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */,
+			);
+			name = "Pods-mixaudiofile-mixaudiofileUITests";
+			path = "Target Support Files/Pods-mixaudiofile-mixaudiofileUITests";
+			sourceTree = "<group>";
+		};
+		74C94611DFA202DBD0447C83A953F306 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B06460D5304AA9249FA9E90435137CC6 /* Pods-mixaudiofile */,
+				69B6EEB1AFCEAB59F073C1F6108AD4DF /* Pods-mixaudiofile-mixaudiofileUITests */,
+				4E7885952760B9C9C5D9D64664B6D3EF /* Pods-mixaudiofileTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		857F96D5E7D2BCB14EF478252B500234 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D07810AF5A5F8A01F1D970E1AAE75032 /* mobile-ffmpeg-audio.debug.xcconfig */,
+				CEFB88A94843AE1FB56D96EDABA78A4E /* mobile-ffmpeg-audio.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mobile-ffmpeg-audio";
 			sourceTree = "<group>";
 		};
+		8E816DAE769239A45DBCC923187BC5C6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C2857E3C56E09C21C7154EA0B55CDF5C /* lame.xcframework */,
+				BCF1646D2044ECB467A33CF470C66E19 /* libavcodec.xcframework */,
+				E9305125CC8762300750912CC5F12BC0 /* libavdevice.xcframework */,
+				B8EB4AB023095D047C2953E3C6504AE8 /* libavfilter.xcframework */,
+				81F2237A255D68EF0AF9D736182D00DC /* libavformat.xcframework */,
+				D7B4D4651C93EC2E63DE45A7B9FAA735 /* libavutil.xcframework */,
+				57D1DB637E7514125C22363C2EB48699 /* libilbc.xcframework */,
+				3EF9B9DA04D46E5047C8588883E4EC91 /* libogg.xcframework */,
+				2089E1DD3678E44B0A17E7A2C27BFE92 /* libopencore-amrnb.xcframework */,
+				2A9786C107BCC6BA68E6DDD4F99FC4B0 /* libopencore-amrwb.xcframework */,
+				1419734C9F73FB112C6401CD7C76C42B /* libsndfile.xcframework */,
+				10CD49B304225F2BF02784AC41C1B36D /* libswresample.xcframework */,
+				CA24153E170B461B3EEA49849B650D5E /* libswscale.xcframework */,
+				4BC51774B28D878BEA256A7940529CB5 /* libvorbis.xcframework */,
+				2B5D8D9805CD95C2EC049F2952C75019 /* libvorbisenc.xcframework */,
+				742371809284D7B22BA2FF63761FB341 /* libvorbisfile.xcframework */,
+				CDAA78329BD0B6A053B1C90BFD4FD164 /* mobileffmpeg.xcframework */,
+				9C648109B9BE09D3E51C11436D94CE77 /* opus.xcframework */,
+				07254B97452ED88668E3E1B8C88CF4C5 /* shine.xcframework */,
+				6494F1F4FD026C12E86609C26D9A7E3C /* soxr.xcframework */,
+				749AE58396A3E528952F278F35D0AA37 /* speex.xcframework */,
+				762A47332A7888BC6072EDCB394B173C /* twolame.xcframework */,
+				15153603CEE31632455874569AFBB26F /* wavpack.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		9343018C1151DDDA07D50EA46C865033 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C3851279E9C684B0C14E6FEB3DE48EB9 /* mobile-ffmpeg-audio */,
+				4C269CE1209334E9BDBE5F3E68D7CA59 /* mobile-ffmpeg-audio */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		C03C8C6BB31CFD3350AE48AF2FD796ED /* Pods-mixaudiofileTests */ = {
+		B06460D5304AA9249FA9E90435137CC6 /* Pods-mixaudiofile */ = {
 			isa = PBXGroup;
 			children = (
-				3734DB22487742EE72161417137A895C /* Pods-mixaudiofileTests.modulemap */,
-				3F89FD5EB6867A6F2D46FE3F829B5705 /* Pods-mixaudiofileTests-acknowledgements.markdown */,
-				EFFE103C668E4B1579123D4670F06CD9 /* Pods-mixaudiofileTests-acknowledgements.plist */,
-				63F51650F84B64A64D59C9F6DB3E12AC /* Pods-mixaudiofileTests-dummy.m */,
-				FD70D207D4E59A4EA69A9A5442000DDC /* Pods-mixaudiofileTests-Info.plist */,
-				069B1F22D05E1EFD6D273EAD35A48830 /* Pods-mixaudiofileTests-umbrella.h */,
-				A70EE9C1B93E6E06C364EEA4ECB1E321 /* Pods-mixaudiofileTests.debug.xcconfig */,
-				DD46909504E8BE842276ECE83FAD099A /* Pods-mixaudiofileTests.release.xcconfig */,
+				4D585EADA1F9010DA3A6DB3AB79BC53D /* Pods-mixaudiofile.modulemap */,
+				1BF582EC58DD935CC53DF7B72F8D6692 /* Pods-mixaudiofile-acknowledgements.markdown */,
+				A407202EC48FEEF853FDE83D4C0220E3 /* Pods-mixaudiofile-acknowledgements.plist */,
+				4311C301DE1A694119B6D750BBE25A87 /* Pods-mixaudiofile-artifacts.sh */,
+				CE58BC0E6B24151B96CA6A89D6435C09 /* Pods-mixaudiofile-artifacts-Debug-input-files.xcfilelist */,
+				8E362915D500B2E3BB293019AD813CD0 /* Pods-mixaudiofile-artifacts-Debug-output-files.xcfilelist */,
+				6FB142CAF5E1BC044A4A229C07AE4BD3 /* Pods-mixaudiofile-artifacts-Release-input-files.xcfilelist */,
+				AF2457DD33C85ED1803964B2505F5CE6 /* Pods-mixaudiofile-artifacts-Release-output-files.xcfilelist */,
+				AF1A2A375355B7B7E1A992A62D82F890 /* Pods-mixaudiofile-dummy.m */,
+				92EC5A8B157981C5917910D4A6510190 /* Pods-mixaudiofile-frameworks.sh */,
+				02C72F1651C1CC662C7A076A0DCD97F3 /* Pods-mixaudiofile-Info.plist */,
+				DEF9B32C589951C05D1FF6812341494D /* Pods-mixaudiofile-umbrella.h */,
+				7930BBF8329683CF3BF41D39837FF9FA /* Pods-mixaudiofile.debug.xcconfig */,
+				7DD1A8D6B68BA7DE29F8475150E7FBD9 /* Pods-mixaudiofile.release.xcconfig */,
 			);
-			name = "Pods-mixaudiofileTests";
-			path = "Target Support Files/Pods-mixaudiofileTests";
+			name = "Pods-mixaudiofile";
+			path = "Target Support Files/Pods-mixaudiofile";
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -251,16 +297,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		C3851279E9C684B0C14E6FEB3DE48EB9 /* mobile-ffmpeg-audio */ = {
-			isa = PBXGroup;
-			children = (
-				138580D5AB0365D5328BBB4E113E8ADD /* Frameworks */,
-				7C26FB0B86E6DB63D77BE82FBCA26A66 /* Support Files */,
-			);
-			name = "mobile-ffmpeg-audio";
-			path = "mobile-ffmpeg-audio";
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
@@ -268,7 +304,7 @@
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				9343018C1151DDDA07D50EA46C865033 /* Pods */,
 				55AA400AB554604D7CB4ABC268C91AB2 /* Products */,
-				FC4215F4C2FC05FCF2C8388D9299CA79 /* Targets Support Files */,
+				74C94611DFA202DBD0447C83A953F306 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -280,40 +316,30 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		FC4215F4C2FC05FCF2C8388D9299CA79 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				2DD7C3DDFC831329699A2AE0D1917121 /* Pods-mixaudiofile */,
-				4FAD4BBE7D82707B16BDC72148ABCD54 /* Pods-mixaudiofile-mixaudiofileUITests */,
-				C03C8C6BB31CFD3350AE48AF2FD796ED /* Pods-mixaudiofileTests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4B25391CBF344958405A023145DE4AA6 /* Headers */ = {
+		4DD4674BA5D1711915856CF64E3833E6 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FD857573C271CD268EAE0EC7D3390FB /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h in Headers */,
+				FC5D71D20B5906D40602F09886382794 /* Pods-mixaudiofile-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E0CA13BC10E6F5F9530C222D88AE674C /* Headers */ = {
+		75A61B39B71BEFB426924B939C74E58A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43CD449E1C7DD8E390CCA4876220E40F /* Pods-mixaudiofileTests-umbrella.h in Headers */,
+				F0D6801DE9925EA9CA6F305E0B12D2E4 /* Pods-mixaudiofileTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FEE8E18D9C629EC657A841F1732BB19D /* Headers */ = {
+		F022CDD5A7B0CC07886D1477449D6778 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3322096B1DE1F36F5BC9FECB193D0C2F /* Pods-mixaudiofile-umbrella.h in Headers */,
+				8ED3A9F2DED76F248977FDA69C67D7A6 /* Pods-mixaudiofile-mixaudiofileUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,17 +348,17 @@
 /* Begin PBXNativeTarget section */
 		476598D8D6A53C59B77880D936D12885 /* Pods-mixaudiofileTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D59130B0115F2D9BC58BC2A92E6E3DF /* Build configuration list for PBXNativeTarget "Pods-mixaudiofileTests" */;
+			buildConfigurationList = 1E5903CD4318B5277F3A050D80E87D25 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofileTests" */;
 			buildPhases = (
-				E0CA13BC10E6F5F9530C222D88AE674C /* Headers */,
-				1EDA775B62FCBAED9A0CA3D1EB1701CE /* Sources */,
-				A20898E0E55217A86C1CD22E67CF2903 /* Frameworks */,
-				4AF5B459D0F2735C867B4994404553C7 /* Resources */,
+				75A61B39B71BEFB426924B939C74E58A /* Headers */,
+				1D83725F609F9022436EF94E34CADC98 /* Sources */,
+				4E4AC00B15FC9B2D19EF4E93BD592DA3 /* Frameworks */,
+				D08C1691AB439B976B1A620F10E6B266 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				DF7DDFEA1300F77FE60AE12DBDB5A803 /* PBXTargetDependency */,
+				766FA226B56A06A82CE9D041C7A2E75B /* PBXTargetDependency */,
 			);
 			name = "Pods-mixaudiofileTests";
 			productName = "Pods-mixaudiofileTests";
@@ -341,17 +367,17 @@
 		};
 		6C5A65BD1C3EDD98AEDE8480EA9E9910 /* Pods-mixaudiofile-mixaudiofileUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F241AE152857D540011DBD62CCD2E0C0 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile-mixaudiofileUITests" */;
+			buildConfigurationList = 14288CE52F430F7F9C9273A8F62B513B /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile-mixaudiofileUITests" */;
 			buildPhases = (
-				4B25391CBF344958405A023145DE4AA6 /* Headers */,
-				D04D5810FDA8B1CE2F3049CE07F25D30 /* Sources */,
-				9A7900DF75AB22DA1EA22DDBE7693423 /* Frameworks */,
-				21F4DE55BD183DB8D6B9824CCD2D9271 /* Resources */,
+				F022CDD5A7B0CC07886D1477449D6778 /* Headers */,
+				3002CFDC306156484820BEA7EF449007 /* Sources */,
+				26671CD7F9557C19030FDB677C1B5F69 /* Frameworks */,
+				221CF1AE63BFD3F7271625B487A93255 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8CC3B69E6A988DFC9487CD36EF165501 /* PBXTargetDependency */,
+				BC494C756F2BDB2EA2D733B75E49F84A /* PBXTargetDependency */,
 			);
 			name = "Pods-mixaudiofile-mixaudiofileUITests";
 			productName = "Pods-mixaudiofile-mixaudiofileUITests";
@@ -360,17 +386,17 @@
 		};
 		FF8665AE9B438147877567BDDD96E268 /* Pods-mixaudiofile */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13CC6BA7A311D3869FE28096F87EDA4C /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile" */;
+			buildConfigurationList = A85E06DB43834FDB9A58A733BC6DEDB0 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile" */;
 			buildPhases = (
-				FEE8E18D9C629EC657A841F1732BB19D /* Headers */,
-				0F4F6C3C0305B61B1D7348300B40EA35 /* Sources */,
-				7019DE574448C6F08E9AA944E16124C4 /* Frameworks */,
-				8053291E00848956D41F482690AAFC30 /* Resources */,
+				4DD4674BA5D1711915856CF64E3833E6 /* Headers */,
+				B11D09D30B3A8AE9123AB1938A4F14AD /* Sources */,
+				46DD945AF60C581D32DFCF73238A0395 /* Frameworks */,
+				C5A31B82BBB362879DC20A413F054CD9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FE9D2AE6E04B007F66498ADC8064F431 /* PBXTargetDependency */,
+				103147DDA2C54FF9386A555D8EB5FF67 /* PBXTargetDependency */,
 			);
 			name = "Pods-mixaudiofile";
 			productName = "Pods-mixaudiofile";
@@ -408,21 +434,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		21F4DE55BD183DB8D6B9824CCD2D9271 /* Resources */ = {
+		221CF1AE63BFD3F7271625B487A93255 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4AF5B459D0F2735C867B4994404553C7 /* Resources */ = {
+		C5A31B82BBB362879DC20A413F054CD9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8053291E00848956D41F482690AAFC30 /* Resources */ = {
+		D08C1691AB439B976B1A620F10E6B266 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -432,57 +458,57 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0F4F6C3C0305B61B1D7348300B40EA35 /* Sources */ = {
+		1D83725F609F9022436EF94E34CADC98 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46124A50F62DFDEAE9208AC31D4502AF /* Pods-mixaudiofile-dummy.m in Sources */,
+				F5328DBFAC90F97322D615DFA54B8E7A /* Pods-mixaudiofileTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1EDA775B62FCBAED9A0CA3D1EB1701CE /* Sources */ = {
+		3002CFDC306156484820BEA7EF449007 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ECD3DEBF38F3D7966EB579936DAAA025 /* Pods-mixaudiofileTests-dummy.m in Sources */,
+				DAF609B5B1F479F162BD16C0939943DA /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D04D5810FDA8B1CE2F3049CE07F25D30 /* Sources */ = {
+		B11D09D30B3A8AE9123AB1938A4F14AD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C986F1A58F0606F7AE1B2B9B8CCC6C17 /* Pods-mixaudiofile-mixaudiofileUITests-dummy.m in Sources */,
+				90E0A2EE6929345BCC1D9479BD038D28 /* Pods-mixaudiofile-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8CC3B69E6A988DFC9487CD36EF165501 /* PBXTargetDependency */ = {
+		103147DDA2C54FF9386A555D8EB5FF67 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "mobile-ffmpeg-audio";
 			target = 9150DBDF5AD4E976829197679E046C7B /* mobile-ffmpeg-audio */;
-			targetProxy = F2831E3CCFC537E58A3B3F1C48364639 /* PBXContainerItemProxy */;
+			targetProxy = 9CB8DFE20DEE6B410108406A624FBE2A /* PBXContainerItemProxy */;
 		};
-		DF7DDFEA1300F77FE60AE12DBDB5A803 /* PBXTargetDependency */ = {
+		766FA226B56A06A82CE9D041C7A2E75B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-mixaudiofile";
 			target = FF8665AE9B438147877567BDDD96E268 /* Pods-mixaudiofile */;
-			targetProxy = BE471136D3830442BF9FE62FCC616A04 /* PBXContainerItemProxy */;
+			targetProxy = 334B75856E452819A5891CECC7257B7E /* PBXContainerItemProxy */;
 		};
-		FE9D2AE6E04B007F66498ADC8064F431 /* PBXTargetDependency */ = {
+		BC494C756F2BDB2EA2D733B75E49F84A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "mobile-ffmpeg-audio";
 			target = 9150DBDF5AD4E976829197679E046C7B /* mobile-ffmpeg-audio */;
-			targetProxy = 2884295D952DEF96741479DBE53AD0F4 /* PBXContainerItemProxy */;
+			targetProxy = 7927432100E311BB25C83B241CF43828 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		20C6FE6F429F6351123F2F3FCD1FE410 /* Release */ = {
+		1A8BE8BA093C43AE341E4E9603E569D9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 889F9A80C67C34CDCCFCB718335E65A9 /* Pods-mixaudiofile.release.xcconfig */;
+			baseConfigurationReference = 7930BBF8329683CF3BF41D39837FF9FA /* Pods-mixaudiofile.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -513,15 +539,14 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		59AB76975E6518712A6F4904FFC6E089 /* Release */ = {
+		251F31F47204C81F72C15C8AA940599C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B570906AE42217FAE8122F65B6F0E500 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */;
+			baseConfigurationReference = 0E3E42B634E769D870544F570D689B59 /* Pods-mixaudiofile-mixaudiofileUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -558,47 +583,27 @@
 			};
 			name = Release;
 		};
-		632032E60C31FDA46919E14572DCDA43 /* Debug */ = {
+		30EA8F522D7F5E2759978DF4004CBD2F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A70EE9C1B93E6E06C364EEA4ECB1E321 /* Pods-mixaudiofileTests.debug.xcconfig */;
+			baseConfigurationReference = CEFB88A94843AE1FB56D96EDABA78A4E /* mobile-ffmpeg-audio.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
 				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				VALIDATE_PRODUCT = YES;
 			};
-			name = Debug;
+			name = Release;
 		};
-		7F8DA54E5F370E0DB40BCFF71EBE6AEF /* Debug */ = {
+		65433CBF283C0F856A230DDAA6AE5E66 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A93D6F544CC00E3AD8EE591C32A81703 /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */;
+			baseConfigurationReference = 93E027713A39A1EC97902356AD0EBE4E /* Pods-mixaudiofile-mixaudiofileUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -634,9 +639,26 @@
 			};
 			name = Debug;
 		};
-		835DFD5592D88EC51EECDF4EC0BDF6D9 /* Release */ = {
+		6C44234ADA19C2F538843564B3E1726B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DD46909504E8BE842276ECE83FAD099A /* Pods-mixaudiofileTests.release.xcconfig */;
+			baseConfigurationReference = D07810AF5A5F8A01F1D970E1AAE75032 /* mobile-ffmpeg-audio.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6F0CBB4003BBC64809B94136C21D9902 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 288CC5E0387E5B31951FA17F3D0C8FF1 /* Pods-mixaudiofileTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -659,6 +681,45 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		86E4DFD74246D8CC9EEE5A72D2E2773E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7DD1A8D6B68BA7DE29F8475150E7FBD9 /* Pods-mixaudiofile.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -797,27 +858,9 @@
 			};
 			name = Release;
 		};
-		EEE3622A1FFD7A836DD91D5A551391AA /* Release */ = {
+		E2B9F435A0107D908562138F35A60737 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0B7152943AC6BD2A9AF358C79F8A3705 /* mobile-ffmpeg-audio.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		F6BBBA91013A3CC5A6C7C222566122CC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7F3F1EF02905F012C6C57FD86B24F4B7 /* Pods-mixaudiofile.debug.xcconfig */;
+			baseConfigurationReference = AAD42D5F14A3E27E4F2A859325B71797 /* Pods-mixaudiofileTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -830,7 +873,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -839,7 +882,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-mixaudiofileTests/Pods-mixaudiofileTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -853,40 +896,23 @@
 			};
 			name = Debug;
 		};
-		FA3EE7704038167C359AFFFFBF1D2370 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0B7152943AC6BD2A9AF358C79F8A3705 /* mobile-ffmpeg-audio.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13CC6BA7A311D3869FE28096F87EDA4C /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile" */ = {
+		14288CE52F430F7F9C9273A8F62B513B /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile-mixaudiofileUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F6BBBA91013A3CC5A6C7C222566122CC /* Debug */,
-				20C6FE6F429F6351123F2F3FCD1FE410 /* Release */,
+				65433CBF283C0F856A230DDAA6AE5E66 /* Debug */,
+				251F31F47204C81F72C15C8AA940599C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D59130B0115F2D9BC58BC2A92E6E3DF /* Build configuration list for PBXNativeTarget "Pods-mixaudiofileTests" */ = {
+		1E5903CD4318B5277F3A050D80E87D25 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofileTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				632032E60C31FDA46919E14572DCDA43 /* Debug */,
-				835DFD5592D88EC51EECDF4EC0BDF6D9 /* Release */,
+				E2B9F435A0107D908562138F35A60737 /* Debug */,
+				6F0CBB4003BBC64809B94136C21D9902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -903,17 +929,17 @@
 		72B0BD662DFD28AB24AAF0227B9D75C4 /* Build configuration list for PBXAggregateTarget "mobile-ffmpeg-audio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FA3EE7704038167C359AFFFFBF1D2370 /* Debug */,
-				EEE3622A1FFD7A836DD91D5A551391AA /* Release */,
+				6C44234ADA19C2F538843564B3E1726B /* Debug */,
+				30EA8F522D7F5E2759978DF4004CBD2F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F241AE152857D540011DBD62CCD2E0C0 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile-mixaudiofileUITests" */ = {
+		A85E06DB43834FDB9A58A733BC6DEDB0 /* Build configuration list for PBXNativeTarget "Pods-mixaudiofile" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7F8DA54E5F370E0DB40BCFF71EBE6AEF /* Debug */,
-				59AB76975E6518712A6F4904FFC6E089 /* Release */,
+				1A8BE8BA093C43AE341E4E9603E569D9 /* Debug */,
+				86E4DFD74246D8CC9EEE5A72D2E2773E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

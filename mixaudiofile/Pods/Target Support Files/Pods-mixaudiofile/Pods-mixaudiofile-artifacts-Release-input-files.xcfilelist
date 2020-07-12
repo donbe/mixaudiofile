@@ -1,0 +1,24 @@
+${PODS_ROOT}/Target Support Files/Pods-mixaudiofile/Pods-mixaudiofile-artifacts.sh
+${PODS_ROOT}/mobile-ffmpeg-audio/mobileffmpeg.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libavcodec.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libavdevice.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libavfilter.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libavformat.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libavutil.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libswresample.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libswscale.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/lame.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libilbc.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libogg.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libopencore-amrnb.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libopencore-amrwb.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libsndfile.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libvorbis.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libvorbisenc.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/libvorbisfile.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/opus.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/shine.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/soxr.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/speex.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/twolame.xcframework
+${PODS_ROOT}/mobile-ffmpeg-audio/wavpack.xcframework
